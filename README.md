@@ -23,5 +23,5 @@ A beautifully animated real-time 3D scene built with **Three.js**, featuring hun
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Lantern-And-Koi-Fish.git
+git clone https://github.com/Arnab27622/Lantern-And-Koi-Fish.git
 cd Lantern-And-Koi-Fish
