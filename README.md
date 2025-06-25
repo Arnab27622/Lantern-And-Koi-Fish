@@ -14,7 +14,7 @@ A beautifully animated real-time 3D scene built with **Three.js**, featuring hun
 
 ## 🖥️ Live Demo
 
-> 📦 *[Live Server](http://localhost:50922)*
+> 📦 *[Lantern & Koi Fish](https://arnab27622.github.io/Lantern-And-Koi-Fish/)*
 
 ---
 
@@ -23,5 +23,5 @@ A beautifully animated real-time 3D scene built with **Three.js**, featuring hun
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/floating-lanterns-koi-fish.git
-cd floating-lanterns-koi-fish
+git clone https://github.com/your-username/Lantern-And-Koi-Fish.git
+cd Lantern-And-Koi-Fish
